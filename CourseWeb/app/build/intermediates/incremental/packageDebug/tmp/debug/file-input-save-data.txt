@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 08 12:53:45 EET 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\okuyucu\\Desktop\\Course Projects\\CS310 Project\\CourseWeb V 2.3.1\\CourseWeb\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
